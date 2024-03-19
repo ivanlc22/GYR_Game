@@ -1,0 +1,25 @@
+# Blender 3.1.0 MTL File: 'Sketchfab_2023_02_26_14_04_43.blend'
+# www.blender.org
+
+newmtl TexturesCom_MetalVarious0026_1_seamless_S
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  TexturesCom_MetalVarious0026_1_seamless_S.png
+map_d  TexturesCom_MetalVarious0026_1_seamless_S.png
+
+newmtl rusted_pipe
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd  TexturesCom_Metal_PipeRusted2_1.82x0.47_512_albedo.png
